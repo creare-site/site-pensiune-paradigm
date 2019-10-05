@@ -10,7 +10,7 @@ Site de pensiune, un produs [WebsiteMarket](https://websitemarket.ro)
 
 ## Informatii produs
 
-- Site de pensiune - Design Paradigm
+- Site de prezentare - Design Paradigm
 - Live [DEMO](https://site-pensiune-paradigm.websitemarket.ro)
  
 <br />
