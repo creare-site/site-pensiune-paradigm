@@ -1,0 +1,25 @@
+{
+    "copy"           : "WebsiteMarket", 
+    "email"          : "hello@websitemarket.ro",
+    "design"         : "Paradigm by Html5 UP",
+
+    "app_title"      : "Site Pensiune",
+
+    "seo_title"      : "Site Pensiune - Design Paradigm | WebsiteMarket",
+    "seo_desc"       : "Site de pensiune, un produs open-source WebsiteMarket.",
+
+    "service"        : "https://websitemarket.ro", 
+
+    "product"        : "https://websitemarket.ro/site-prezentare/pensiune-paradigm", 
+    "github"         : "https://github.com/creare-site/site-pensiune-paradigm",
+    "github_group"   : "https://github.com/creare-site",
+
+    "blog"           : "https://blog.websitemarket.ro/",
+    "facebook"       : "https://www.facebook.com/Websitemarketro/",
+    "twitter"        : "https://twitter.com/websitemarketro/",
+    "instagram"      : "https://websitemarket.ro",
+    "support"        : "https://websitemarket.ro",
+    "discord"        : "https://discord.gg/MFRQmAk",
+
+    "LAST_KEY" : "NA"
+}
